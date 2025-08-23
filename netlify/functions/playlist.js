@@ -1,5 +1,6 @@
 exports.handler = async (event) => {
   const token = event.queryStringParameters.token;
+  const userAgent = event.headers["user-agent"] || "";
 
   if (token !== "abc123") {
     return {
@@ -10,7 +11,6 @@ exports.handler = async (event) => {
 
   const playlist = `
 #EXTM3U
-
 #EXTM3U url-tvg="https://mokm32.github.io/epg-astro/epg.xml,https://mokm32.github.io/epg-indonesia/epg.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/vod-top-20/,https://mokm32.github.io/vodupdatenew/,https://mokm32.github.io/vod-aseanmovies/"
 
 #EXTINF:-1 group-title="ORDER ID👉 SHOPEE NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="NeckleNJ" ch-number="100" tvg-name="NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", ID ORIGINAL KEDAI SHOPEE NeckleNJ
@@ -4084,13 +4084,22 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 
 
 #EXTM3U billed-msg="Order ID Dekat WEBSITE https://mokm32.github.io/necklenj-site/ or Beli di Kedai Shopee NeckleNJ"
-
-
 `;
 
+  // Kalau buka dari browser → kasi random text
+  if (userAgent.includes("Mozilla")) {
+    return {
+      statusCode: 403,
+      body: "Forbidden"
+    };
+  }
+
+  // Kalau buka dari OTT Navigator → kasi playlist betul
   return {
     statusCode: 200,
-    headers: { "Content-Type": "application/vnd.apple.mpegurl" },
+    headers: {
+      "Content-Type": "application/vnd.apple.mpegurl"
+    },
     body: playlist
   };
 };
