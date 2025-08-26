@@ -651,7 +651,7 @@ https://get.perfecttv.net/mutv.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=unifisport
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=unifisport
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports HD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/sukanrtm.png", 700 RTM Sukan
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -665,28 +665,28 @@ http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=801
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=801
 
 #EXTINF:-1 tvg-id="802.astro" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png",ARENA 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=802
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=802
 
 #EXTINF:-1 tvg-id="803.astro" ch-number="803" group-title="Sports HD" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola (2024).png",ARENA BOLA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1hd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+https://get.perfecttv.net/jwt.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=bola1hd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="Sports HD" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola 2 (2024).png",ARENA BOLA 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2hd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+https://get.perfecttv.net/jwt.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=bola2hd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="Sports HD"  tvg-logo="https://get.perfecttv.net/logo/sportuhd.png",805 Astro UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -694,7 +694,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrouhd
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=astrouhd
 
 #EXTINF:-1 tvg-id="811.astro" group-title="Sports HD" group-logo="" ch-number="811" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -702,7 +702,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1hd
+https://get.perfecttv.net/jwt.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=epl1hd
 
 #EXTINF:-1 tvg-id="812.astro" group-title="Sports HD" group-logo="" ch-number="812" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -710,7 +710,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
-https://get.perfecttv.net/jwt.mpd?username=$username&password=$password&channel=epl2hd
+https://get.perfecttv.net/jwt.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=epl2hd
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="" group-title="Sports HD"  tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png",Astro Premier League 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -718,24 +718,24 @@ https://get.perfecttv.net/jwt.mpd?username=$username&password=$password&channel=
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl3
+https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=epl3
 
 #EXTINF:-1 tvg-id="810.astro" group-title="Sports HD" group-logo="" ch-number="810" tvg-logo="https://aqfadtv.xyz/logos/Astro Grandstand (2024).png",Astro Grandstand
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+https://get.perfecttv.net/jwt.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=grandstandhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 #EXTINF:-1 tvg-id="814.astro" group-title="Sports HD" group-logo="" ch-number="814" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",Astro Football
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrofootball
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=astrofootball
 
 #EXTINF:-1 tvg-id="815.astro" ch-number="815" group-title="Sports HD" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",Astro Badminton
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bbb23a5ad81427fa6817864b2383402:81e055a8d6ddf6392ae9033f0f037b98
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+https://get.perfecttv.net/jwt.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=badmintonhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 #EXTINF:-1 tvg-id="AstroBadminton2" ch-number="816" group-title="Sports HD" ch-number="816" tvg-logo="https://i.ibb.co/mcmpN9b/Astro-Badminton-2.webp",816 Astro Badminton 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -745,46 +745,46 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 #EXTINF:-1 tvg-id="817.astro" group-title="Sports HD" group-logo="" ch-number="817" tvg-logo="https://aqfadtv.xyz/logos/Astro Sports Plus (2024).png",Astro Sports Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e676c88f5cc74beebed5f6fb6406c23c:7091db9a73ccea572d2b7b4461f0c8e5
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplushd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+https://get.perfecttv.net/jwt.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=sportplushd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 #EXTINF:-1 tvg-id="832.astro" ch-number="832" group-title="Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png",ASTRO CRICKET
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=22034bc3c33442e5b0dcfd5e51809105:a6c05cc46fdefeee86d5435f14a9c0f9
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=crickethd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+https://get.perfecttv.net/jwt.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=crickethd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 #EXTINF:-1 tvg-id="823.astro" tvg-name="SPOTV" group-title="Sports HD" ch-number="816" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrospotv
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=astrospotv
 
 #EXTINF:-1 tvg-id="824.astro" ch-number="824" tvg-name="SPOTV2" group-title="Sports HD" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png",SPOTV2 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrospotv2
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=astrospotv2
 
 #EXTINF:-1 tvg-id="820.astro" group-title="Sports HD" group-logo="" ch-number="820" tvg-logo="https://aqfadtv.xyz/logos/beIN Sports 1.png",beIN SPORTS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrobein1
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=astrobein1
 
 #EXTINF:-1 tvg-id="821.astro" ch-number="821" group-title="Sports HD" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/beINSports2.png",beIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrobein2
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=astrobein2
 
 #EXTINF:-1 tvg-id="822.astro" group-title="Sports HD" group-logo="" ch-number="822" tvg-logo="https://aqfadtv.xyz/logos/beINSports3.png",bEIN SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrobein3
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=astrobein3
 
 #EXTINF: -1 tvg-id="826.astro" group-title="Sports HD" group-logo="" ch-number="826" tvg-logo="https://telegra.ph/file/ee3bff6d510fb4ac3f386.png",W-Sport
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=579e19ae6da24199ab27e57c22b952e2:667c95071d405a86e707a1edb07db03a
 #KODIPROP:inputstream.adaptive.license_key=863ec5acb11e42b0b19f818fdecc515a:522a52c10c3b619ad53f336dd9e2195a
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=g3piwEs&channel=wsporthd  
+https://get.perfecttv.net/jwt.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=wsport
 
 #EXTINF:-1 group-logo="" group-title="Sports HD" tvg-id="823.astro" tvg-logo="https://get.perfecttv.net/logo/premiersports.png" ,815 Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -797,7 +797,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=golf
+https://get.perfecttv.net/dash2.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=golf
 
 #EXTINF:-1 tvg-id="MUTV (Man Utd)" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/cyberspywalker/image/main/Manchester-United-logo.png" group-title="Sports HD",Man United TV
 #https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -1063,10 +1063,7 @@ https://l01.dp.sooka.my/2507/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #=KODIPROP:inputstream.adaptive.license_key=d66e2fe5f045426195d432802f9ba807:6fe283a6f1f3a3fb69f82c4340e0dde2
 ##KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
 #EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="Chinese" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro AEC (2024).png",AEC HD
-#https://l04.dp.sooka.my/2400/linear/index.mpd|authorization=Bearer 
-#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aecfhd|authorization=Bearer 
-#https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aechd
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aechd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+https://get.perfecttv.net/jwt.mpd?username=vip_2ufdz5sx&password=xNwilsNd&channel=aechd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
