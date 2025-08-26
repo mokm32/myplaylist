@@ -60,6 +60,21 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 
+#EXTINF:-1 tvg-id="105.astro" group-title="3 beradik Xstabil" ch-number="105" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIMA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
+#KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
+##KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#https://l18.dp.sooka.my/1000/linear/index.mpd|authorization=Bearer 
+#https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primachd|authorization=Bearer 
+#https://get.perfecttv.net/720prima.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primachd 
+#https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primahd
+https://primahd.netlify.app/.netlify/functions/playlist 
+
+
 
 ########################################################################################################################
 ############################################  SPORT  ###################################################################
