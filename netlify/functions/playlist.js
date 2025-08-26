@@ -72,7 +72,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primachd|authorization=Bearer 
 #https://get.perfecttv.net/720prima.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primachd 
 #https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primahd
-https://primahd.netlify.app/.netlify/functions/playlist 
+https://primahd.netlify.app/.netlify/functions/playlist|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 
 
