@@ -198,7 +198,7 @@ https://l02.dp.sooka.my/2504/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #EXTINF:-1 tvg-id="AstroBadminton2" ch-number="816" group-title="Sports" ch-number="816" tvg-logo="https://i.ibb.co/mcmpN9b/Astro-Badminton-2.webp",816 Astro Badminton 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 
 #EXTINF:-1 tvg-id="814.astro" ch-number="814" group-title="Sports" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png",Astro Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
