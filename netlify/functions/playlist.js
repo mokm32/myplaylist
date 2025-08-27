@@ -157,6 +157,9 @@ https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
 
+#EXTINF:-1 tvg-id="815.astro" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",Astro Badminton
+https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+
 -------------------//---------------------------------------------///------------------------------------------------
 
 #EXTINF:-1 tvg-id="AstroBadminton2" ch-number="816" group-title="Sports" ch-number="816" tvg-logo="https://i.ibb.co/mcmpN9b/Astro-Badminton-2.webp",816 Astro Badminton 2 HD
