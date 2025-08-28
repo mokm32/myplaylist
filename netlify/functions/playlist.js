@@ -587,6 +587,10 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 
 #######################################################################
 
+#EXTINF:-1 tvg-id="816.astro" ch-number="815" group-title="Sports Backup" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",Astro Badminton 2
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
