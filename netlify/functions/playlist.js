@@ -116,6 +116,75 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
 
 
+############## 3 beradik NEW #################################
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png"
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(a)" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="3 beradik New",ASTRO Ria(a)
+http://iptv12k.com:35461/m250812286772412/111111/735
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(b)" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="3 beradik New",ASTRO Ria(b)
+http://iptv12k.com:35461/m250812286772412/111111/4354
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA(c)" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="3 beradik New",ASTRO RIA(c)
+http://iptv12k.com:35461/m250812286772412/111111/4353
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(d)" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="3 beradik New",ASTRO Ria(d)
+http://iptv12k.com:35461/m250812286772412/111111/10838
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Prima (A)" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="3 beradik New",ASTRO Prima (A)
+http://iptv12k.com:35461/m250812286772412/111111/734
+#EXTINF:-1 tvg-id="" tvg-name="Astro prima(B)" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="3 beradik New",Astro prima(B)
+http://iptv12k.com:35461/m250812286772412/111111/5959
+#EXTINF:-1 tvg-id="" tvg-name="Astro prima(C)" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="3 beradik New",Astro prima(C)
+http://iptv12k.com:35461/m250812286772412/111111/5958
+#EXTINF:-1 tvg-id="" tvg-name="MY: Hub Sensasi HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5e0fce174527907.64a424472224f.jpg" group-title="3 beradik New",MY: Hub Sensasi HD
+http://iptv12k.com:35461/m250812286772412/111111/3748
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Citra(A)" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="3 beradik New",ASTRO Citra(A)
+http://iptv12k.com:35461/m250812286772412/111111/721
+
+
+########################################################################################################################
+############################################  SPORT NEW ###################################################################
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png"
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Footballs" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports New",Astro Footballs
+http://iptv12k.com:35461/m250812286772412/111111/43910
+#EXTINF:-1 tvg-id="" tvg-name="Premier Leagues ASSP1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports New",Premier Leagues ASSP1
+http://iptv12k.com:35461/m250812286772412/111111/43909
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 2s" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports New",Premier League 2s
+http://iptv12k.com:35461/m250812286772412/111111/43908
+#EXTINF:-1 tvg-id="" tvg-name="Astro Grandstands" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports New",Astro Grandstands
+http://iptv12k.com:35461/m250812286772412/111111/43907
+#EXTINF:-1 tvg-id="" tvg-name="Astro Badminton HDs" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="Sports New",Astro Badminton HDs
+http://iptv12k.com:35461/m250812286772412/111111/43906
+#EXTINF:-1 tvg-id="" tvg-name="Astro Badminton 2HDs" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="Sports New",Astro Badminton 2HDs
+http://iptv12k.com:35461/m250812286772412/111111/43905
+#EXTINF:-1 tvg-id="" tvg-name="Champions 1Astro PREMIER (a)" tvg-logo="https://i.ytimg.com/vi/PUN02bBeX68/hqdefault.jpg" group-title="Sports New",Champions 1Astro PREMIER (a)
+http://iptv12k.com:35461/m250812286772412/111111/33194
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2 " tvg-logo="https://i.ytimg.com/vi/vmc-j0dDYVU/maxresdefault.jpg" group-title="Sports New",Astro Arena 2 
+http://iptv12k.com:35461/m250812286772412/111111/20681
+#EXTINF:-1 tvg-id="" tvg-name="RTM sport " tvg-logo="https://www.coolstreaming.us/img/ch/image10631475923.jpg" group-title="Sports New",RTM sport 
+http://iptv12k.com:35461/m250812286772412/111111/20656
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena1(a)" tvg-logo="https://benchmarkbroadcast.com/wp-content/uploads/2020/08/Astro-Arena-HD.png" group-title="Sports New",Astro Arena1(a)
+http://iptv12k.com:35461/m250812286772412/111111/5943
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 1(b)" tvg-logo="https://benchmarkbroadcast.com/wp-content/uploads/2020/08/Astro-Arena-HD.png" group-title="Sports New",Astro Arena 1(b)
+http://iptv12k.com:35461/m250812286772412/111111/688
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="Sports New",Bola Arena2
+http://iptv12k.com:35461/m250812286772412/111111/20628
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena1" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="Sports New",Bola Arena1
+http://iptv12k.com:35461/m250812286772412/111111/20627
+#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="ASTRO Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports New",ASTRO Cricket
+http://iptv12k.com:35461/m250812286772412/111111/684
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Sports New",WWE Network
+http://iptv12k.com:35461/m250812286772412/111111/652
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE9Z2aQb7cvpG6Hci_kE4edlIiO9JYun6vpg&usqp=CAU" group-title="Sports New",Eurosport HD
+http://iptv12k.com:35461/m250812286772412/111111/647
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sports Plus  HDs" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="Sports New",Astro Sports Plus  HDs
+http://iptv12k.com:35461/m250812286772412/111111/43904
+
+
+
 ########################################################################################################################
 ############################################  SPORT  ###################################################################
 ########################################################################################################################
