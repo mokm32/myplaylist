@@ -2228,6 +2228,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png" 
 
 
+-------------//--------------------------------------//-----------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="MoonBug ASTRO Ceria (a)" tvg-logo="https://mb.cision.com/Public/21926/3763194/9d2b9b13d2da7d57_800x800ar.jpg" group-title="Kids",MoonBug ASTRO Ceria (a)
+http://iptv12k.com:35461/m250812286772412/111111/20064
+#EXTINF:-1 tvg-id="" tvg-name="MoonBug ASTRO Ceria(c)" tvg-logo="https://mb.cision.com/Public/21926/3763194/9d2b9b13d2da7d57_800x800ar.jpg" group-title="Kids",MoonBug ASTRO Ceria(c)
+http://iptv12k.com:35461/m250812286772412/111111/20679
+#EXTINF:-1 tvg-id="" tvg-name="MoonBug ASTRO Ceria HD Reparing my2" tvg-logo="https://mb.cision.com/Public/21926/3763194/9d2b9b13d2da7d57_800x800ar.jpg" group-title="Kids",MoonBug ASTRO Ceria HD Reparing my2
+http://iptv12k.com:35461/m250812286772412/111111/13622
+
+-------------//--------------------------------------//-----------------------------
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
