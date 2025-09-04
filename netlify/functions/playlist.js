@@ -2005,10 +2005,25 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png"
 
 
+
+---------------------//---------------------------------//---------------------------------------------
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+#EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/dmax.png",178 DMAX HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/animalplanet.png",186 ANIMAL PLANET
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+---------------------//---------------------------------//---------------------------------------------
+
 #EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/dmax.png",178 DMAX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://get.perfecttv.net/firstmedia.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dmax|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#https://get.perfecttv.net/firstmedia.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dmax|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/history.png",179 History HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2055,7 +2070,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/animalplanet.png",186 ANIMAL PLANET
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-https://get.perfecttv.net/firstmedia.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=animalplanet|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#https://get.perfecttv.net/firstmedia.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=animalplanet|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/bbcearth.png" ch-number="501",190 BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2145,11 +2160,25 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png" 
 
 
+
+----------------//-------------------------------//------------------------------
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+#EXTINF:-1 group-logo="" group-title="Documentary" tvg-logo="https://get.perfecttv.net/logo/dmax.png",178 DMAX HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTINF:-1 group-logo="" group-title="Documentary" tvg-logo="https://get.perfecttv.net/logo/animalplanet.png",186 ANIMAL PLANET
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+----------------//-------------------------------//------------------------------
+
 #EXTINF:-1 tvg-id="AnimalPlanet" ch-number=" " tvg-name="Animal Planet HD" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" ch-number="556",556 Animal Planet 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-https://get.perfecttv.net/firstmedia.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=animalplanet|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
+#https://get.perfecttv.net/firstmedia.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=animalplanet|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="552.astro" ch-number=" " tvg-name="Discovery Channel HD" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" ch-number="552",DISCOVERY HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2209,7 +2238,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 #EXTINF:-1 tvg-id="715.astro" ch-number=" " tvg-name="HGTV" ch-number="715" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" ch-number="715",HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
