@@ -196,6 +196,17 @@ http://iptv12k.com:35461/m250812286772412/111111/43904
 
 
 
+--------------//--------------------------//----------------------------------
+#EXTINF:-1 tvg-id="802.astro" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png",ARENA 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd|authorization=Bearer
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd
+--------------//--------------------------//----------------------------------
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -442,6 +453,18 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 
 
+
+
+--------------//--------------------------//----------------------------------
+#EXTINF:-1 tvg-id="802.astro" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="Sports Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png",ARENA 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd|authorization=Bearer
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd
+--------------//--------------------------//----------------------------------
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
