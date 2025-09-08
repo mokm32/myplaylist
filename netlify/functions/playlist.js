@@ -926,12 +926,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png"
 
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="Malaysia" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-https://raw.githubusercontent.com/mokm32/tv1.mpd/main/tv1.mpd
 
 #EXTINF:-1 tvg-id="103.astro" group-title="Malaysia" ch-number="103" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/TV3.png",TV3
 #KODIPROP:inputstream=inputstream.adaptive
