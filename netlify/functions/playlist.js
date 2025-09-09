@@ -143,47 +143,54 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
 
 ########################################################################################################################
-############################################  SPORT NEW ###################################################################
+############################################  UK PREMIER LEAGUE ###################################################################
 ########################################################################################################################
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro Footballs" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports New",Astro Footballs
-#http://iptv12k.com:35461/m250812286772412/111111/43910
-#EXTINF:-1 tvg-id="" tvg-name="Premier Leagues ASSP1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports New",Premier Leagues ASSP1
-#http://iptv12k.com:35461/m250812286772412/111111/43909
-#EXTINF:-1 tvg-id="" tvg-name="Premier League 2s" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports New",Premier League 2s
-#http://iptv12k.com:35461/m250812286772412/111111/43908
-#EXTINF:-1 tvg-id="" tvg-name="Astro Grandstands" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports New",Astro Grandstands
-#http://iptv12k.com:35461/m250812286772412/111111/43907
-#EXTINF:-1 tvg-id="" tvg-name="Astro Badminton HDs" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="Sports New",Astro Badminton HDs
-#http://iptv12k.com:35461/m250812286772412/111111/43906
-#EXTINF:-1 tvg-id="" tvg-name="Astro Badminton 2HDs" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="Sports New",Astro Badminton 2HDs
-#http://iptv12k.com:35461/m250812286772412/111111/43905
-#EXTINF:-1 tvg-id="" tvg-name="Champions 1Astro PREMIER (a)" tvg-logo="https://i.ytimg.com/vi/PUN02bBeX68/hqdefault.jpg" group-title="Sports New",Champions 1Astro PREMIER (a)
-#http://iptv12k.com:35461/m250812286772412/111111/33194
-#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2 " tvg-logo="https://i.ytimg.com/vi/vmc-j0dDYVU/maxresdefault.jpg" group-title="Sports New",Astro Arena 2 
-#http://iptv12k.com:35461/m250812286772412/111111/20681
-#EXTINF:-1 tvg-id="" tvg-name="RTM sport " tvg-logo="https://www.coolstreaming.us/img/ch/image10631475923.jpg" group-title="Sports New",RTM sport 
-#http://iptv12k.com:35461/m250812286772412/111111/20656
-#EXTINF:-1 tvg-id="" tvg-name="Astro Arena1(a)" tvg-logo="https://benchmarkbroadcast.com/wp-content/uploads/2020/08/Astro-Arena-HD.png" group-title="Sports New",Astro Arena1(a)
-#http://iptv12k.com:35461/m250812286772412/111111/5943
-#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 1(b)" tvg-logo="https://benchmarkbroadcast.com/wp-content/uploads/2020/08/Astro-Arena-HD.png" group-title="Sports New",Astro Arena 1(b)
-#http://iptv12k.com:35461/m250812286772412/111111/688
-#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="Sports New",Bola Arena2
-#http://iptv12k.com:35461/m250812286772412/111111/20628
-#EXTINF:-1 tvg-id="" tvg-name="Bola Arena1" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="Sports New",Bola Arena1
-#http://iptv12k.com:35461/m250812286772412/111111/20627
-#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="ASTRO Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports New",ASTRO Cricket
-#http://iptv12k.com:35461/m250812286772412/111111/684
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Sports New",WWE Network
-#http://iptv12k.com:35461/m250812286772412/111111/652
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE9Z2aQb7cvpG6Hci_kE4edlIiO9JYun6vpg&usqp=CAU" group-title="Sports New",Eurosport HD
-#http://iptv12k.com:35461/m250812286772412/111111/647
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sports Plus  HDs" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="Sports New",Astro Sports Plus  HDs
-#http://iptv12k.com:35461/m250812286772412/111111/43904
 
+
+#EXTINF:-1 tvg-id="AFCBournemouth.epl" tvg-name="EPL : AFC BOURNEMOUTH" tvg-logo="http://icons.tw:8080/images/c5b6259c794adf1f6a5761ccfee3a47a.png" group-title="UK PREMIER LEAGUE",EPL : AFC BOURNEMOUTH
+http://hostengine.live/live/123456789/123456789/235760.ts
+#EXTINF:-1 tvg-id="Arsenal.epl" tvg-name="EPL : ARSENAL" tvg-logo="http://icons.tw:8080/images/bfe8b1027719c2853a51d7de1e0725a5.png" group-title="UK PREMIER LEAGUE",EPL : ARSENAL
+http://hostengine.live/live/123456789/123456789/235761.ts
+#EXTINF:-1 tvg-id="AstonVilla.epl" tvg-name="EPL : ASTON VILLA" tvg-logo="http://icons.tw:8080/images/76dc3b8905fe378977f96d2a36e22421.png" group-title="UK PREMIER LEAGUE",EPL : ASTON VILLA
+http://hostengine.live/live/123456789/123456789/235762.ts
+#EXTINF:-1 tvg-id="BrentfordFC.epl" tvg-name="EPL : BRENTFORD" tvg-logo="http://icons.tw:8080/images/ce2b5559fcdf12aeb1d33c9245283a48.png" group-title="UK PREMIER LEAGUE",EPL : BRENTFORD
+http://hostengine.live/live/123456789/123456789/235763.ts
+#EXTINF:-1 tvg-id="BrightonAndHoveAlbionFC.epl" tvg-name="EPL : BRIGHTON" tvg-logo="http://icons.tw:8080/images/8bf7981099c9c0a5c18ddd0b125167c5.png" group-title="UK PREMIER LEAGUE",EPL : BRIGHTON
+http://hostengine.live/live/123456789/123456789/235764.ts
+#EXTINF:-1 tvg-id="BurnleyFC.epl" tvg-name="EPL : BURNLEY" tvg-logo="http://145.239.7.84/logos/Premier%20League/Burnley.png" group-title="UK PREMIER LEAGUE",EPL : BURNLEY
+http://hostengine.live/live/123456789/123456789/235776.ts
+#EXTINF:-1 tvg-id="Chelsea.epl" tvg-name="EPL : CHELSEA" tvg-logo="http://icons.tw:8080/images/7cd47654b0ea90a52b43a0ad1871a713.png" group-title="UK PREMIER LEAGUE",EPL : CHELSEA
+http://hostengine.live/live/123456789/123456789/235765.ts
+#EXTINF:-1 tvg-id="CrystalPalace.epl" tvg-name="EPL : CRYSTAL PALACE" tvg-logo="http://icons.tw:8080/images/2facdc8aa035d298c209c7ad0cb5c0a8.png" group-title="UK PREMIER LEAGUE",EPL : CRYSTAL PALACE
+http://hostengine.live/live/123456789/123456789/235766.ts
+#EXTINF:-1 tvg-id="Everton.epl" tvg-name="EPL : EVERTON" tvg-logo="http://icons.tw:8080/images/3ee46525bac1bc650926fd85c5cd7a7a.png" group-title="UK PREMIER LEAGUE",EPL : EVERTON
+http://hostengine.live/live/123456789/123456789/235767.ts
+#EXTINF:-1 tvg-id="Fulham.epl" tvg-name="EPL : FULHAM" tvg-logo="http://icons.tw:8080/images/d78b3d35b0f86c3e2c97200f1aeb890b.png" group-title="UK PREMIER LEAGUE",EPL : FULHAM
+http://hostengine.live/live/123456789/123456789/235768.ts
+#EXTINF:-1 tvg-id="IpswichTown.epl" tvg-name="EPL : LEEDS UNITED" tvg-logo="http://145.239.7.84/logos/Premier%20League/Leeds.png" group-title="UK PREMIER LEAGUE",EPL : LEEDS UNITED
+http://hostengine.live/live/123456789/123456789/235770.ts
+#EXTINF:-1 tvg-id="Liverpool.epl" tvg-name="EPL : LIVERPOOL" tvg-logo="http://icons.tw:8080/images/1202eeb1b4b7345fd903a41316b10500.png" group-title="UK PREMIER LEAGUE",EPL : LIVERPOOL
+http://hostengine.live/live/123456789/123456789/235771.ts
+#EXTINF:-1 tvg-id="ManchesterCity.epl" tvg-name="EPL : MANCHESTER CITY" tvg-logo="http://icons.tw:8080/images/42163ed4b4e8aa65f6a7044274373c62.png" group-title="UK PREMIER LEAGUE",EPL : MANCHESTER CITY
+http://hostengine.live/live/123456789/123456789/235772.ts
+#EXTINF:-1 tvg-id="ManchesterUnited.epl" tvg-name="EPL : MANCHESTER UTD" tvg-logo="http://icons.tw:8080/images/4ecdc8c82b6cabe865f55b537f741467.png" group-title="UK PREMIER LEAGUE",EPL : MANCHESTER UTD
+http://hostengine.live/live/123456789/123456789/235773.ts
+#EXTINF:-1 tvg-id="NewcastleUnited.epl" tvg-name="EPL : NEWCASTLE UTD" tvg-logo="http://icons.tw:8080/images/329f4862e71ccab6f19503b25e9dc232.png" group-title="UK PREMIER LEAGUE",EPL : NEWCASTLE UTD
+http://hostengine.live/live/123456789/123456789/235774.ts
+#EXTINF:-1 tvg-id="NottinghamForest.epl" tvg-name="EPL : NOTTINGHAM FOREST" tvg-logo="http://icons.tw:8080/images/11ab951227bc7dff82c183abe58f3c80.png" group-title="UK PREMIER LEAGUE",EPL : NOTTINGHAM FOREST
+http://hostengine.live/live/123456789/123456789/235775.ts
+#EXTINF:-1 tvg-id="Sunderland.epl" tvg-name="EPL : SUNDERLAND" tvg-logo="http://145.239.7.84/logos/Premier%20League/Sunderland.png" group-title="UK PREMIER LEAGUE",EPL : SUNDERLAND
+http://hostengine.live/live/123456789/123456789/235769.ts
+#EXTINF:-1 tvg-id="TottenhamHotspur.epl" tvg-name="EPL : TOTTENHAM HOTSPUR" tvg-logo="http://icons.tw:8080/images/20a4e6074448039ccf99db6461c3dd26.png" group-title="UK PREMIER LEAGUE",EPL : TOTTENHAM HOTSPUR
+http://hostengine.live/live/123456789/123456789/235777.ts
+#EXTINF:-1 tvg-id="WestHamUnited.epl" tvg-name="EPL : WEST HAM" tvg-logo="http://icons.tw:8080/images/9fef3752b717b731dea55bb0932eee73.png" group-title="UK PREMIER LEAGUE",EPL : WEST HAM
+http://hostengine.live/live/123456789/123456789/235778.ts
+#EXTINF:-1 tvg-id="WolverhamptonWanderers.epl" tvg-name="EPL : WOLVERHAMPTON WANDERERS" tvg-logo="http://icons.tw:8080/images/15ba4addb5eecf61c6ee6e906be8b7b1.png" group-title="UK PREMIER LEAGUE",EPL : WOLVERHAMPTON WANDERERS
+http://hostengine.live/live/123456789/123456789/235779.ts
 
 
 ########################################################################################################################
