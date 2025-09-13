@@ -421,14 +421,14 @@ https://smart.pendy.dpdns.org/Smart.php?id=Wwe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tnt1
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tnt1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://get.perfecttv.net/logo/tnt2.png",817 TNT 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tnt2
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tnt2
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="Sports"  tvg-logo="https://get.perfecttv.net/logo/sportuhd.png",805 Astro UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -437,6 +437,51 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrouhd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://get.perfecttv.net/logo/champions1.png",816 Champions 1 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+https://get.perfecttv.net/vidio_live.mpd?username=vip_3klp0es8&password=wg3piwEs&id=17938
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://get.perfecttv.net/logo/champions2.png",816 Champions 2 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
+https://get.perfecttv.net/vidio_live.mpd?username=vip_3klp0es8&password=wg3piwEs&id=6686
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://get.perfecttv.net/logo/champions3.png",816 Champions 3 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
+https://get.perfecttv.net/vidio_live.mpd?username=vip_3klp0es8&password=wg3piwEs&id=6786
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://get.perfecttv.net/logo/champions5.png",816 Champions 5 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+https://get.perfecttv.net/vidio_live.mpd?username=vip_3klp0es8&password=wg3piwEs&id=9182
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://get.perfecttv.net/logo/champions6.png",816 Champions 6 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidio_live.mpd?username=vip_3klp0es8&password=wg3piwEs&id=9183
+
+#EXTINF:-1 group-title="Sports" tvg-id="NBA"  tvg-logo="https://get.perfecttv.net/logo/peacock_epl.png",817 Peacock EPL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=peacockEpl
+
+#EXTINF:-1 group-title="Sports" tvg-id="NBA"  tvg-logo="https://get.perfecttv.net/logo/peacock_wwe.png",817 Peacock WWE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=peacockWwe
 
 
 
@@ -779,6 +824,51 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="MUTV (Man Utd)" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/cyberspywalker/image/main/Manchester-United-logo.png" group-title="Sports Backup",Man United TV
 #https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 https://get.perfecttv.net/mutv.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports Backup" tvg-logo="https://get.perfecttv.net/logo/champions1.png",816 Champions 1 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+https://get.perfecttv.net/vidio_live.mpd?username=vip_3klp0es8&password=wg3piwEs&id=17938
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports Backup" tvg-logo="https://get.perfecttv.net/logo/champions2.png",816 Champions 2 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
+https://get.perfecttv.net/vidio_live.mpd?username=vip_3klp0es8&password=wg3piwEs&id=6686
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports Backup" tvg-logo="https://get.perfecttv.net/logo/champions3.png",816 Champions 3 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
+https://get.perfecttv.net/vidio_live.mpd?username=vip_3klp0es8&password=wg3piwEs&id=6786
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports Backup" tvg-logo="https://get.perfecttv.net/logo/champions5.png",816 Champions 5 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+https://get.perfecttv.net/vidio_live.mpd?username=vip_3klp0es8&password=wg3piwEs&id=9182
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports Backup" tvg-logo="https://get.perfecttv.net/logo/champions6.png",816 Champions 6 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidio_live.mpd?username=vip_3klp0es8&password=wg3piwEs&id=9183
+
+#EXTINF:-1 group-title="Sports Backup" tvg-id="NBA"  tvg-logo="https://get.perfecttv.net/logo/peacock_epl.png",817 Peacock EPL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=peacockEpl
+
+#EXTINF:-1 group-title="Sports Backup" tvg-id="NBA"  tvg-logo="https://get.perfecttv.net/logo/peacock_wwe.png",817 Peacock WWE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=peacockWwe
 
 
 
