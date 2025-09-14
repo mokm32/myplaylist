@@ -467,7 +467,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
 #https://get.perfecttv.net/jwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola1hd
-https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola1hd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTc4NDE2MTEsImlzcyI6IlZSIiwiZXhwIjoxNzU3ODg5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYzE2N2EwYTQtNTc0Mi00YjM2LTk1NTYtMDA5ZmY1Njg3YzFkIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.Fm16FPkg8eV8dUF_heqEDD-svW1aTh8d62HgPwkmI50
+https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola1hd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTc4NTQ0NTcsImlzcyI6IlZSIiwiZXhwIjoxNzU3ODg5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.8-omiJvbpRxg3thyXHuYa05Ok3GwLuBPPouQgEO0l_0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola2.png" group-title="Sports Backup",ARENA BOLA 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -475,7 +475,7 @@ https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
 #https://get.perfecttv.net/jwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola2hd
-https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola2hd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTc4NDE2MTEsImlzcyI6IlZSIiwiZXhwIjoxNzU3ODg5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYzE2N2EwYTQtNTc0Mi00YjM2LTk1NTYtMDA5ZmY1Njg3YzFkIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.Ah8g9PE_s87W7y8XGfkcqtO9vhUG6ZR7Glwlsqi4jko
+https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola2hd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTc4NTQ1MDksImlzcyI6IlZSIiwiZXhwIjoxNzU3ODg5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.Rc4xpioLvWz1YBQQZ0_KY3Vu1hevDJ0VpoVR2p4wfvU
 ----------------------------------------
 
 --------------//--------------------------//----------------------------------
