@@ -461,6 +461,12 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd|authorization=Bearer
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd
 
+#EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",Astro Premier League 2
+https://dl.dropboxusercontent.com/scl/fi/cm0enrb6tjwgluwfeo9rj/astro-premier-league-2.m3u8?rlkey=tbelnegqpb8opa6td6mv5qxb5
+
+#EXTINF:-1 tvg-id="810.astro" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="Sports Backup",Astro Grandstand
+https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
+
 ---------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola.png" group-title="Sports Backup",ARENA BOLA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
