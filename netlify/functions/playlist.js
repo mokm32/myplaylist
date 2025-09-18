@@ -526,6 +526,13 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTc5ODc2MzEsImlzcyI6IlZSIiwiZXhwIjoxNzU4MDYxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYzE2N2EwYTQtNTc0Mi00YjM2LTk1NTYtMDA5ZmY1Njg3YzFkIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.XdwnopQJSXatOf88Z6tYa7OcrVyh7Y53DxfiyRdcL-8
 #https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola1fhd
 
+#EXTINF:-1 tvg-id="803.astro" ch-number="803" group-title="Sports Backup" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola (2024).png",ARENA BOLA+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="803.astro" ch-number="803" group-title="Sports Backup" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola (2024).png",ARENA BOLA
+https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola1fhd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTc5ODc2MzEsImlzcyI6IlZSIiwiZXhwIjoxNzU4MDYxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZGZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYzE2N2EwYTQtNTc0Mi00YjM2LTk1NTYtMDA5ZmY1Njg3YzFkIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.XdwnopQJSXatOf88Z6tYa7OcrVyh7Y53DxfiyRdcL-8
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fsjEGG32mljPZAKRp8msfA","kid":"ExSRT7T5SYS3p1cqA7afkw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
