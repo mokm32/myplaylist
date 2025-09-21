@@ -528,15 +528,16 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
 #-KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
 #=KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla 5.0 /v3.3
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="803.astro" ch-number="803" group-title="Sports Backup" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola (2024).png",ARENA BOLA
 #https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1sd|authorization=Bearer 
 #https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer 
 #https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|authorization=Bearer 
 #https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 #https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTc5ODc2MzEsImlzcyI6IlZSIiwiZXhwIjoxNzU4MDYxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYzE2N2EwYTQtNTc0Mi00YjM2LTk1NTYtMDA5ZmY1Njg3YzFkIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.XdwnopQJSXatOf88Z6tYa7OcrVyh7Y53DxfiyRdcL-8
-#https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola1fhd
+https://get.perfecttv.net/rwt.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=bola1fhd
 
 #EXTINF:-1 tvg-id="803.astro" ch-number="803" group-title="Sports Backup" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola (2024).png",ARENA BOLA+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
