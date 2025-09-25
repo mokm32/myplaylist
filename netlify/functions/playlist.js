@@ -12,9 +12,7 @@ exports.handler = async (event) => {
   const playlist = `
 #EXTM3U
 
-#EXTM3U url-tvg="https://mokm32.github.io/epg-astro/epg.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/vod-top-20/,https://mokm32.github.io/vodupdatenew/,https://mokm32.github.io/vod-aseanmovies/"
-
-vod_library=http://http://103.20.240.213:8080/;name=UF;logo=https://i.ibb.co/mrNKFM6V/Untitled-design.png
+#EXTM3U url-tvg="https://mokm32.github.io/epg-astro/epg.xml" refresh="1440" max-conn="4" refresh="24" vod_library="http://103.20.240.213:8080/,https://mokm32.github.io/vod-top-20/,https://mokm32.github.io/vodupdatenew/,https://mokm32.github.io/vod-aseanmovies/"
 
 #EXTINF:-1 group-title="ORDER ID👉 SHOPEE NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="NeckleNJ" ch-number="100" tvg-name="NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", ID ORIGINAL KEDAI SHOPEE NeckleNJ
 https://archive.org/download/2025-01-16-03-39-44/2025-01-16%2003-39-44.mp4
