@@ -2352,7 +2352,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="404.astro" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="Movies" ch-number="404",BOO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41d6TAbnIOJRsOioQ2wxVT-gAv91z9QEpLhNd3Oe1Tgyc=qBp6/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=084ae1bb-9883-437d-b94b-20a03b5c5339
+https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41d6TAbnIOJRsOioQ2wxVT-nhkngaNSQinh8j5DcA9Rnw=VJLi/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=e6448d80-c376-463f-bf4b-93faf31e90ec
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2464,7 +2464,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="404.astro" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="Movies Backup" ch-number="404",BOO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41d6TAbnIOJRsOioQ2wxVT-gAv91z9QEpLhNd3Oe1Tgyc=qBp6/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=084ae1bb-9883-437d-b94b-20a03b5c5339
+https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41d6TAbnIOJRsOioQ2wxVT-nhkngaNSQinh8j5DcA9Rnw=VJLi/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=e6448d80-c376-463f-bf4b-93faf31e90ec
 
 
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="Movies Backup" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
@@ -2896,7 +2896,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41Ee7PmQKYWYnvQPPbR9jmvIVE2syEUeMA4RjiQGpAdEc=LgGr/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41Ee7PmQKYWYnvQPPbR9jmvOV4RRMwDeJaZ7NJkU7hQiw=MXu5/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 -------------//--------------------------------------//-----------------------------
 
